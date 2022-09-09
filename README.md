@@ -2,8 +2,8 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-He put in something from a web site, but I am writing blah.
+1. index.html
 
-Adding even more ipsum.
+
